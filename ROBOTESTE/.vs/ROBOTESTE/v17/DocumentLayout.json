@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES_VIRTUO\\ROBOTESTE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{191DD4BD-5364-4590-9B06-0EEB4A045938}|ROBOTESTE\\ROBOTESTE.csproj|D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES_VIRTUO\\ROBOTESTE\\roboteste\\roboteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191DD4BD-5364-4590-9B06-0EEB4A045938}|ROBOTESTE\\ROBOTESTE.csproj|solutionrelative:roboteste\\roboteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191DD4BD-5364-4590-9B06-0EEB4A045938}|ROBOTESTE\\ROBOTESTE.csproj|d:\\projetos_avell\\desenvolvimento mao\\pacote_de_testes_virtuo\\roboteste\\roboteste\\roboteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{191DD4BD-5364-4590-9B06-0EEB4A045938}|ROBOTESTE\\ROBOTESTE.csproj|solutionrelative:roboteste\\roboteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ROBOTESTE.cs",
+              "DocumentMoniker": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES_VIRTUO\\ROBOTESTE\\ROBOTESTE\\ROBOTESTE.cs",
+              "RelativeDocumentMoniker": "ROBOTESTE\\ROBOTESTE.cs",
+              "ToolTip": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES_VIRTUO\\ROBOTESTE\\ROBOTESTE\\ROBOTESTE.cs",
+              "RelativeToolTip": "ROBOTESTE\\ROBOTESTE.cs",
+              "ViewState": "AQIAAMoDAAAAAAAAAAAAAMoDAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:17:06.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ROBOTESTE.cs [Design]",
+              "DocumentMoniker": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES_VIRTUO\\ROBOTESTE\\ROBOTESTE\\ROBOTESTE.cs",
+              "RelativeDocumentMoniker": "ROBOTESTE\\ROBOTESTE.cs",
+              "ToolTip": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES_VIRTUO\\ROBOTESTE\\ROBOTESTE\\ROBOTESTE.cs [Design]",
+              "RelativeToolTip": "ROBOTESTE\\ROBOTESTE.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:17:05Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

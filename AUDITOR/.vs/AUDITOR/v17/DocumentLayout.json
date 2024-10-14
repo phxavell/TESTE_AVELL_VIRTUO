@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES_VIRTUO\\AUDITOR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AUDITOR||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB6522-1BE6-423C-AE20-8C2ABBEB90C6}|..\\SLQFINALIZA\\SLQFINALIZA\\SLQFINALIZA.csproj|d:\\projetos_avell\\desenvolvimento mao\\pacote_de_testes_virtuo\\slqfinaliza\\slqfinaliza\\confirmarfinaliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB6522-1BE6-423C-AE20-8C2ABBEB90C6}|..\\SLQFINALIZA\\SLQFINALIZA\\SLQFINALIZA.csproj|d:\\projetos_avell\\desenvolvimento mao\\pacote_de_testes_virtuo\\slqfinaliza\\slqfinaliza\\confirmarfinaliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB6522-1BE6-423C-AE20-8C2ABBEB90C6}|..\\SLQFINALIZA\\SLQFINALIZA\\SLQFINALIZA.csproj|d:\\projetos_avell\\desenvolvimento mao\\pacote_de_testes_virtuo\\slqfinaliza\\slqfinaliza\\sqlfinaliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BB6522-1BE6-423C-AE20-8C2ABBEB90C6}|..\\SLQFINALIZA\\SLQFINALIZA\\SLQFINALIZA.csproj|d:\\projetos_avell\\desenvolvimento mao\\pacote_de_testes_virtuo\\slqfinaliza\\slqfinaliza\\testesavell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367D0862-0549-4C1B-AA76-5B3C7BE09292}|AUDITOR\\AUDITOR.csproj|d:\\projetos_avell\\desenvolvimento mao\\pacote_de_testes_virtuo\\auditor\\auditor\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CONFIRMARFINALIZA.cs",
+              "DocumentMoniker": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES_VIRTUO\\SLQFINALIZA\\SLQFINALIZA\\CONFIRMARFINALIZA.cs",
+              "RelativeDocumentMoniker": "..\\SLQFINALIZA\\SLQFINALIZA\\CONFIRMARFINALIZA.cs",
+              "ToolTip": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES_VIRTUO\\SLQFINALIZA\\SLQFINALIZA\\CONFIRMARFINALIZA.cs",
+              "RelativeToolTip": "..\\SLQFINALIZA\\SLQFINALIZA\\CONFIRMARFINALIZA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:42:22.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestesAvell.cs",
+              "DocumentMoniker": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES_VIRTUO\\SLQFINALIZA\\SLQFINALIZA\\TestesAvell.cs",
+              "RelativeDocumentMoniker": "..\\SLQFINALIZA\\SLQFINALIZA\\TestesAvell.cs",
+              "ToolTip": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES_VIRTUO\\SLQFINALIZA\\SLQFINALIZA\\TestesAvell.cs",
+              "RelativeToolTip": "..\\SLQFINALIZA\\SLQFINALIZA\\TestesAvell.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:42:04.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLFINALIZA.cs [Design]",
+              "DocumentMoniker": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES_VIRTUO\\SLQFINALIZA\\SLQFINALIZA\\SQLFINALIZA.cs",
+              "RelativeDocumentMoniker": "..\\SLQFINALIZA\\SLQFINALIZA\\SQLFINALIZA.cs",
+              "ToolTip": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES_VIRTUO\\SLQFINALIZA\\SLQFINALIZA\\SQLFINALIZA.cs [Design]",
+              "RelativeToolTip": "..\\SLQFINALIZA\\SLQFINALIZA\\SQLFINALIZA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:42:00.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CONFIRMARFINALIZA.cs [Design]",
+              "DocumentMoniker": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES_VIRTUO\\SLQFINALIZA\\SLQFINALIZA\\CONFIRMARFINALIZA.cs",
+              "RelativeDocumentMoniker": "..\\SLQFINALIZA\\SLQFINALIZA\\CONFIRMARFINALIZA.cs",
+              "ToolTip": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES_VIRTUO\\SLQFINALIZA\\SLQFINALIZA\\CONFIRMARFINALIZA.cs [Design]",
+              "RelativeToolTip": "..\\SLQFINALIZA\\SLQFINALIZA\\CONFIRMARFINALIZA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:41:55.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AUDITOR",
+              "DocumentMoniker": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES_VIRTUO\\AUDITOR\\AUDITOR\\AUDITOR.csproj",
+              "RelativeDocumentMoniker": "AUDITOR\\AUDITOR.csproj",
+              "ToolTip": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES_VIRTUO\\AUDITOR\\AUDITOR\\AUDITOR.csproj",
+              "RelativeToolTip": "AUDITOR\\AUDITOR.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-04-14T15:08:26.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

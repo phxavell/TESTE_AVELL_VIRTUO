@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVELLCUSTOM1", "AVELLCUSTOM1\AVELLCUSTOM1.csproj", "{9C43FC3C-0A06-4D53-94C7-E16E996EF994}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOUCHPAD", "..\TOUCHPAD\TOUCHPAD\TOUCHPAD.csproj", "{ADAC9C7B-E2E1-4B3A-877C-1355EF2E578D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C43FC3C-0A06-4D53-94C7-E16E996EF994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C43FC3C-0A06-4D53-94C7-E16E996EF994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C43FC3C-0A06-4D53-94C7-E16E996EF994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C43FC3C-0A06-4D53-94C7-E16E996EF994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADAC9C7B-E2E1-4B3A-877C-1355EF2E578D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAC9C7B-E2E1-4B3A-877C-1355EF2E578D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAC9C7B-E2E1-4B3A-877C-1355EF2E578D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAC9C7B-E2E1-4B3A-877C-1355EF2E578D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {342AB59A-6983-4217-8AB2-1E10DA2DA660}
+	EndGlobalSection
+EndGlobal
